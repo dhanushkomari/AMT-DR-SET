@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TRAIN</folder>
+	<filename>ia_100000347.jpg</filename>
+	<path>E:\DEV_COLLECTION\RC DL	test images\ODOMETER\Digital\TRAIN\ia_100000347.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Digital_Meter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>70</ymin>
+			<xmax>67</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+</annotation>

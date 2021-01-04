@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TEST</folder>
+	<filename>ia_100011985.jpg</filename>
+	<path>E:\DEV_COLLECTION\RC DL	test images\ODOMETER\Digital\TEST\ia_100011985.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>295</width>
+		<height>171</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Digital_Meter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>113</ymin>
+			<xmax>89</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>
